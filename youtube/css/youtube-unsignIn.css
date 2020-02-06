@@ -1,0 +1,20 @@
+/* topbar */
+table{width:95%}
+table tr:nth-child(1) td{height:60px;padding:0px 0px;}
+#topbar{margin-top:15px;}
+#topbar .col-sm-1 #mainLogo{width:97%;height:30px;cursor: pointer;}
+#topbar .col-sm-1:nth-child(2){text-align: right;}
+#topbar .col-sm-1 #in{position: absolute;}
+#topbar .col-sm-1 #vu{height:30px;width:50px;cursor: pointer;}
+#topbar .col-sm-1 .fa{font-size:25px;cursor: pointer;}
+#topbar .col-sm-1{text-align: center;padding:5px 0px;}
+#topbar .col-sm-6{width:420px}
+#topbar #signInstyle{border-radius:7px;
+border:2px solid rgb(0,153,255);color:rgb(0,153,255);}
+#topbar #signInstyle span{text-transform: uppercase;font-size:14px;}
+#topbar #signInstyle a,#topbar #signInstyle a:hover{color: rgb(0,153,255);text-decoration: none;}
+/* leftmenu */
+.menuIcon{color:grey;text-align: center;margin-bottom:20px;cursor: pointer;margin-left:5px;margin-right:10px;}
+.menuIcon:nth-child(1){color:red;}
+.menuIcon .fa{font-size:25px;}
+.menuIcon .span{font-size:12px;}
